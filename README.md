@@ -1,6 +1,6 @@
 # Hi there, I'm Ashwin Bhandurge 👋
 
-**Senior Data Engineer & Consultant** | 14+ years across Regulatory Banking, Credit Risk & Cloud Modernization
+**Senior Data & ML  Engineer** | 14+ years across Regulatory Banking, Credit Risk, Cloud Modernization & Implmenting AI/ML solutions
 
 📍 Brussels, Belgium &nbsp;|&nbsp; 📧 ashwin.bhandurge@gmail.com
 
@@ -8,10 +8,11 @@
 
 ## 🧑‍💼 About Me
 
-I'm a Senior Consultant at **Capgemini Belgium** working with **Global Credit Data (GCD)**, specializing in regulatory data platforms and large-scale SAS-to-Cloud migrations. I bridge the gap between business, regulatory, and engineering teams to deliver compliant, scalable data solutions for global tier-1 banks.
+I'm a Senior ML & Data Engineer at **Capgemini Belgium** working with **Global Credit Data (GCD)**, specializing in regulatory data platforms, **large-scale SAS-to-Cloud migrations** and bringing optimization and efficiency through **AI & ML solutions** for the client. I bridge the gap between business, regulatory, and engineering teams to deliver compliant, scalable data solutions for global tier-1 banks.
 
-With a unique blend of **engineering**, **academic teaching**, and **banking/risk management** experience, I bring both technical depth and the ability to communicate complex ideas clearly to diverse stakeholders.
+With a unique blend of **engineering**, **academic teaching**, **banking/risk management** and **AI/ML** experience, I bring both technical depth and the ability to communicate complex ideas clearly to diverse stakeholders.
 
+Recently, architecting a RAG based Gen AI solution with proprietary & local LLMs and mentoring a team of developers in implementing the solution for the client.   
 ---
 
 ## 🛠️ Tech Stack
@@ -33,6 +34,7 @@ With a unique blend of **engineering**, **academic teaching**, and **banking/ris
 ## 💼 Experience Highlights
 
 ### 🏦 Capgemini Belgium — Senior Consultant *(Apr 2019 – Present)*
+- Architecting a PDF data extraction and standardization **Gen AI solution**  
 - **Lead** multi-year SAS-to-Cloud migration for GCD's LGD, PD, Benchmarking & ICC platforms
 - Built **PySpark ETL notebooks**, Python validation engines, and Azure Functions/Batch pipelines on **Microsoft Fabric**
 - Designed **data governance frameworks**: LEI submission flows, anonymized ID generation, SCD-based historical data

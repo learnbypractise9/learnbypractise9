@@ -13,6 +13,7 @@ I'm a Senior ML & Data Engineer at **Capgemini Belgium** working with **Global C
 With a unique blend of **engineering**, **academic teaching**, **banking/risk management** and **AI/ML** experience, I bring both technical depth and the ability to communicate complex ideas clearly to diverse stakeholders.
 
 Recently, architecting a RAG based Gen AI solution with proprietary & local LLMs and mentoring a team of developers in implementing the solution for the client.   
+
 ---
 
 ## 🛠️ Tech Stack
@@ -24,7 +25,7 @@ Recently, architecting a RAG based Gen AI solution with proprietary & local LLMs
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white) ![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-742774?style=flat-square&logo=microsoft&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
 
 **ML & AI**
-![ML](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square) ![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=flat-square) ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF0000?style=flat-square)
+![ML](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square) ![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=flat-square) ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF0000?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-Supported-brightgreen) ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white) ![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white) ![Ollama](https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white)
 
 **Tools**
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat-square&logo=github&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![PowerApps](https://img.shields.io/badge/PowerApps-742774?style=flat-square&logo=powerapps&logoColor=white)
